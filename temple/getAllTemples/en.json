@@ -1,4 +1,61 @@
 [
+  
+  {
+    "templeId": "7",
+    "templeName": "Abu Guru Shikhar",
+    "placeSpeciality": "Gurupaduka, Anusaya Temple",
+    "placeImagePath": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Arbuda_Mountains.JPG",
+    "start_color": "#ff3f38",
+    "end_color": "#ffa938",
+    "placeSubHeading": "स्थान: अरवली पर्वत शिखरावर, अबुच्या पहाडावर १५ कि. मी. (राजस्थान राज्य), उंची १७२२ मिटर्स  ",
+    "placeRighteous": "सत्पुरूष: श्री दत्तात्रय ",
+    "placeMahatmya": "विशेष: गुरुपादुका, अनुसया मंदिर"
+  },
+  {
+    "templeId": "3",
+    "templeName": "Shri Kshetra Kuravpur (Kurgaddi)",
+    "placeSpeciality": "Tapobhumi, a great place for meditation, worship",
+    "placeImagePath": "https://i.ytimg.com/vi/9xJetk5n1os/maxresdefault.jpg",
+    "start_color": "#FF9C27B0",
+    "end_color": "#B2E60C57",
+    "placeSubHeading": "स्थान: आंध्र प्रदेशात कृष्णा स्टेशन पासून २७ कि. मी. अंतरावर बेट ",
+    "placeRighteous": "सत्पुरूष: श्रीपादश्रीवल्लभ ",
+    "placeMahatmya": "विशेष: तपोभूमी, ध्यानधारणा, उपासनेसाठी उत्तम ठिकाण "
+  },
+  
+  {
+    "templeId": "4",
+    "templeName": "Shri Kshetra Peethapur",
+    "placeSpeciality": "Birthplace of Shripad",
+    "placeImagePath": "https://i.ytimg.com/vi/OJhncFD6adc/maxresdefault.jpg",
+    "start_color": "#FF956BDD",
+    "end_color": "#376DF6",
+    "placeSubHeading": "स्थान:  इस्ट गोदावरी जिल्हा, आंध्रप्रदेश ",
+    "placeRighteous": "सत्पुरूष: श्रीपाद श्रीवल्लभ स्वामी महाराज   ",
+    "placeMahatmya": "विशेष:  श्रीपाद श्रीवल्लभ जन्मस्थान, कुकुटेश्वर मंदिर, अनघा लक्ष्मी  मंदिर, सत्यनारायण मंदिर"
+  },
+  {
+    "templeId": "2",
+    "templeName": "Audumbar",
+    "placeSpeciality": "Shri Narasimha-Saraswati performed Chaturmas.",
+    "placeImagePath": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Shreekshetra_Audumbar_Temple.jpg/800px-Shreekshetra_Audumbar_Temple.jpg",
+    "start_color": "#FF009688",
+    "end_color": "#B4034981",
+    "placeSubHeading": "स्थान: भिलवडी स्टेशन पासून ६ कि. मी. अंतरावर कृष्णा नदीच्या काठावर आहे.",
+    "placeRighteous": "सत्पुरूष: श्री नरसिंह-सरस्वती यांनी चातुर्मास केला.   ",
+    "placeMahatmya": "स्थानमहात्म्य: श्री ब्रम्हानंद स्वामींनी तप केले. मठ व समाधी औदुंबर येथे आहे. श्री नारायणानंद संन्यास दीक्षा व वास्तव्य. "
+  },
+  {
+    "templeId": "6",
+    "templeName": "Shri Kshetra Mangaon",
+    "placeSpeciality": "W. E. Birthplace of Tembe Swami",
+    "placeImagePath": "https://i.ytimg.com/vi/MmwS8qViYM8/maxresdefault.jpg",
+    "start_color": "#376DF6",
+    "end_color": "#21E8AC",
+    "placeSubHeading": "जिल्हा सिंधुदूर्ग - कुडाळपासून १४ कि. मी.",
+    "placeRighteous": "श्री वासुदेवानंद सरस्वती स्वामी",
+    "placeMahatmya": "प. पू. टेंबे स्वामींचे जन्मस्थळ, महाराज स्थापित दत्तमूर्ती, टेंबेस्वामींची मूर्ती व पादूका, ध्यान गूहा"
+  },
   {
     "templeId": "10",
     "templeName": "Karanji - Dattaprabhunchan Ajol",
@@ -22,17 +79,6 @@
     "placeMahatmya": "विशेष:अक्कम्मा गुहा, श्री स्वामी प्रकटस्थान, श्री नृसिहसरस्वती महाराज पादुका, तपस्थान "
   },
   {
-    "templeId": "7",
-    "templeName": "Abu Guru Shikhar",
-    "placeSpeciality": "Gurupaduka, Anusaya Temple",
-    "placeImagePath": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Arbuda_Mountains.JPG",
-    "start_color": "#ff3f38",
-    "end_color": "#ffa938",
-    "placeSubHeading": "स्थान: अरवली पर्वत शिखरावर, अबुच्या पहाडावर १५ कि. मी. (राजस्थान राज्य), उंची १७२२ मिटर्स  ",
-    "placeRighteous": "सत्पुरूष: श्री दत्तात्रय ",
-    "placeMahatmya": "विशेष: गुरुपादुका, अनुसया मंदिर"
-  },
-  {
     "templeId": "1",
     "templeName": "Narsobachi Wadi",
     "placeSpeciality": "Shri Narasimhasaraswati lived for 12 years",
@@ -42,17 +88,6 @@
     "placeSubHeading": "स्थान: तहसील शिरोळ, जि. कोल्हापूर, मिरजे पासून जवळ, कृष्णा - पंचगंगा संगम स्थळी.",
     "placeRighteous": "सत्पुरूष: श्री नरसिंहसरस्वती १२ वर्षे वास्तव्य.",
     "placeMahatmya": "स्थान माहात्म्य: लिलाभूमी-श्री नरसिंहसरस्वती, श्री दीक्षित स्वामी, श्री वासुदेवानंद सरस्वती, श्री मौनी बाबा, श्री रामचंद्रयोगी, श्री नारायणस्वामी, श्री गोपालस्वामी, श्री ब्रम्हानंद स्वामी."
-  },
-  {
-    "templeId": "3",
-    "templeName": "Shri Kshetra Kuravpur (Kurgaddi)",
-    "placeSpeciality": "Tapobhumi, a great place for meditation, worship",
-    "placeImagePath": "https://i.ytimg.com/vi/9xJetk5n1os/maxresdefault.jpg",
-    "start_color": "#FF9C27B0",
-    "end_color": "#B2E60C57",
-    "placeSubHeading": "स्थान: आंध्र प्रदेशात कृष्णा स्टेशन पासून २७ कि. मी. अंतरावर बेट ",
-    "placeRighteous": "सत्पुरूष: श्रीपादश्रीवल्लभ ",
-    "placeMahatmya": "विशेष: तपोभूमी, ध्यानधारणा, उपासनेसाठी उत्तम ठिकाण "
   },
   {
     "templeId": "11",
@@ -99,17 +134,6 @@
     "placeMahatmya": "विशेष: ’बाचणी’ येथील ’श्री दत्तपादुका’ ह्या नृसिंहवाडीसारख्याच अत्यंत जाज्वल्य व भक्तांच्या मनोकामना पूर्ण करणाऱ्या आहेत."
   },
   {
-    "templeId": "6",
-    "templeName": "Shri Kshetra Mangaon",
-    "placeSpeciality": "W. E. Birthplace of Tembe Swami",
-    "placeImagePath": "https://i.ytimg.com/vi/MmwS8qViYM8/maxresdefault.jpg",
-    "start_color": "#376DF6",
-    "end_color": "#21E8AC",
-    "placeSubHeading": "जिल्हा सिंधुदूर्ग - कुडाळपासून १४ कि. मी.",
-    "placeRighteous": "श्री वासुदेवानंद सरस्वती स्वामी",
-    "placeMahatmya": "प. पू. टेंबे स्वामींचे जन्मस्थळ, महाराज स्थापित दत्तमूर्ती, टेंबेस्वामींची मूर्ती व पादूका, ध्यान गूहा"
-  },
-  {
     "templeId": "15",
     "templeName": "Shri Kshetra Chikurde Datta Devasthan",
     "placeSpeciality": "Dattamandir",
@@ -132,17 +156,6 @@
     "placeMahatmya": "विशेष: येथे ४८ समाधी, श्रीगणेशाच्या जन्म कथेनुसार शंकराकडून शिरच्छेदापूर्वीच्या श्रीगणेशाची विलक्षण सुंदर मूर्ती."
   },
   {
-    "templeId": "2",
-    "templeName": "Audumbar",
-    "placeSpeciality": "Shri Narasimha-Saraswati performed Chaturmas.",
-    "placeImagePath": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Shreekshetra_Audumbar_Temple.jpg/800px-Shreekshetra_Audumbar_Temple.jpg",
-    "start_color": "#FF009688",
-    "end_color": "#B4034981",
-    "placeSubHeading": "स्थान: भिलवडी स्टेशन पासून ६ कि. मी. अंतरावर कृष्णा नदीच्या काठावर आहे.",
-    "placeRighteous": "सत्पुरूष: श्री नरसिंह-सरस्वती यांनी चातुर्मास केला.   ",
-    "placeMahatmya": "स्थानमहात्म्य: श्री ब्रम्हानंद स्वामींनी तप केले. मठ व समाधी औदुंबर येथे आहे. श्री नारायणानंद संन्यास दीक्षा व वास्तव्य. "
-  },
-  {
     "templeId": "13",
     "templeName": "Shri Kshetra Ashti Datta Mandir - Beed",
     "placeSpeciality": "All beautiful 3. Feet tall, Datta idol in Shiva.",
@@ -152,16 +165,5 @@
     "placeSubHeading": "स्थान: मुंबई -बीड महामार्गावर नगर पासून ३६ मैलावर. ",
     "placeRighteous": "सत्पुरूष: दत्तमंदिर.",
     "placeMahatmya": "विशेष: सर्वांग सुंदर ३॥ फूट उंचीची, शिव मध्ये असलेली दत्त मूर्ती."
-  },
-  {
-    "templeId": "4",
-    "templeName": "Shri Kshetra Peethapur",
-    "placeSpeciality": "Birthplace of Shripad",
-    "placeImagePath": "https://i.ytimg.com/vi/OJhncFD6adc/maxresdefault.jpg",
-    "start_color": "#FF956BDD",
-    "end_color": "#376DF6",
-    "placeSubHeading": "स्थान:  इस्ट गोदावरी जिल्हा, आंध्रप्रदेश ",
-    "placeRighteous": "सत्पुरूष: श्रीपाद श्रीवल्लभ स्वामी महाराज   ",
-    "placeMahatmya": "विशेष:  श्रीपाद श्रीवल्लभ जन्मस्थान, कुकुटेश्वर मंदिर, अनघा लक्ष्मी  मंदिर, सत्यनारायण मंदिर"
   }
 ]
