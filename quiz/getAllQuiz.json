@@ -1,6 +1,6 @@
 [
 	{
-		"id": "1"
+		"id": "1",
 		"quizQue":"Who is the daughter of Maharshi Kardama?",
 		"quizAns": [
 			{	
@@ -10,11 +10,11 @@
 			{	
 				"id": 2,
 				"ans":"Anasuya"
-			}
+			},
 			{	
 				"id": 3,
 				"ans":"Saraswati"
-			}
+			},
 			{	
 				"id": 4,
 				"ans":"Parvati"
@@ -23,7 +23,7 @@
 		"correctAns": "2"
 	},
 	{
-		"id": "2"
+		"id": "2",
 		"quizQue":"Which mountain is also called as 'Guru-Shikhar'?",
 		"quizAns": [
 			{	
@@ -33,11 +33,11 @@
 			{	
 				"id": 2,
 				"ans":"Hampi"
-			}
+			},
 			{	
 				"id": 3,
 				"ans":"Mount Abu - (Abu Parvat)"
-			}
+			},
 			{	
 				"id": 4,
 				"ans":"Garudeshwar"
@@ -46,7 +46,7 @@
 		"correctAns": "3"
 	},
 	{
-		"id": "3"
+		"id": "3",
 		"quizQue":"On which river 'Audumbar Datta Temple' is on the banks of?",
 		"quizAns": [
 						{	
@@ -56,11 +56,11 @@
 			{	
 				"id": 2,
 				"ans":"Panchganga River"
-			}
+			},
 			{	
 				"id": 3,
 				"ans":"Godavari River"
-			}
+			},
 			{	
 				"id": 4,
 				"ans":"Narmada River"
@@ -69,7 +69,7 @@
 		"correctAns": "1"
 	},
 	{
-		"id": "4"
+		"id": "4",
 		"quizQue":"Which is the birth place of Shripad Shrivallabh?",
 		"quizAns": [
 			{	
@@ -79,11 +79,11 @@
 			{	
 				"id": 2,
 				"ans":"Kuravpur"
-			}
+			},
 			{	
 				"id": 3,
 				"ans":"Narsobawadi"
-			}
+			},
 			{	
 				"id": 4,
 				"ans":"Pithapuram"
@@ -92,7 +92,7 @@
 		"correctAns": "4"
 	},
 	{
-		"id": "5"
+		"id": "5",
 		"quizQue":"How many years shri narasimha saraswati stayed in Narsobawadi (Amarapur)?",
 		"quizAns": [
 			{	
@@ -102,11 +102,11 @@
 			{	
 				"id": 2,
 				"ans":"12 Years"
-			}
+			},
 			{	
 				"id": 3,
 				"ans":"13 Years"
-			}
+			},
 			{	
 				"id": 4,
 				"ans":"14 Years"
