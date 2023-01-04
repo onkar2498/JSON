@@ -84,6 +84,13 @@
     "audioThumbnail": "https://i.ytimg.com/vi/FMW9iJ9sOWg/maxresdefault.jpg"
   },
   {
+    "id": "5f65ac1a257c264a94cc9a65",
+    "audioTitle": "Dhanya Dhanya Ho Pradakshina",
+    "audioDesc": "Shridhar Phadke",
+    "audioURL": "mp3/dhanya_dhanya_ho.mp3",
+    "audioThumbnail": "https://i.ytimg.com/vi/FMW9iJ9sOWg/maxresdefault.jpg"
+  },
+  {
     "id": "5f65ac04257c264a94cc9a5b",
     "audioTitle": "जय_जय_दत्तराज_माऊली",
     "audioDesc": "T-Series Audio(Ajit Kadkade)",
@@ -102,6 +109,13 @@
     "audioTitle": "दत्त_दिगंबर_दैवत_माझे",
     "audioDesc": "T-Series Audio(Ajit Kadkade)",
     "audioURL": "mp3/दत्त_दिगंबर_दैवत_माझे.amr",
+    "audioThumbnail": "https://i.ytimg.com/vi/FMW9iJ9sOWg/maxresdefault.jpg"
+  },
+  {
+    "id": "5f65ac1a257c264a94cc9a66",
+    "audioTitle": "Dhanya Dhanya Ho Pradakshina",
+    "audioDesc": "T-Series Audio",
+    "audioURL": "mp3/Pradakshina_dhanya_dhanya_ho.mp3",
     "audioThumbnail": "https://i.ytimg.com/vi/FMW9iJ9sOWg/maxresdefault.jpg"
   }
 ]
