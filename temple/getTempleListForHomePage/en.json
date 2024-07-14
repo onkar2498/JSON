@@ -6,30 +6,29 @@
     "placeImagePath": "https://assets-news-bcdn.dailyhunt.in/cmd/resize/400x400_80/fetchdata16/images/d5/b9/5b/d5b95b532e2a4c704f6c3b48cac84699ff4c6abc46c64b8cfe2c83c4b01058a6.jpg",
     "start_color": "#719c06",
     "end_color": "#376DF6",
-    "placeSubHeading": "स्थान: प्रतापनगर (बडोदा, गुजराथ राज्य), डभोई मार्गे १० मैलावर, चांदोद येथून पश्चिमेस २ मैलावर, शिनोर येथून ५ मैलावर हे क्षेत्र.",
-    "placeRighteous": "सत्पुरूष: महासती साध्वी अनुसयामाता.",
-    "placeMahatmya": "विशेष: जागृत ठिकाण, येथील माती लावल्याने रक्तपिती, त्वचरोगही बरे होतात."
+    "placeSubHeading": "Location: Pratapnagar (Baroda, Gujarat State), From Dabhoi 16 Km, 3.2 Km west from Chandod, 8 Km from Shinor.",
+    "placeRighteous": "Satpurush: Mahasati Sadhvi Anusayamata.",
+    "placeMahatmya": "Special: Awakened place, where soil is used for bleeding, skin diseases are cured."
   },
   {
     "templeId": "6",
     "templeName": "Shri Kshetra Mangaon",
-    "placeSpeciality": "W. E. Birthplace of Tembe Swami",
+    "placeSpeciality": "Birthplace of Srimad Paramahansa Parivrajakacharya Vasudevananda Saraswati (Tembe) Swami Maharaj",
     "placeImagePath": "https://i.ytimg.com/vi/MmwS8qViYM8/maxresdefault.jpg",
     "start_color": "#376DF6",
     "end_color": "#21E8AC",
-    "placeSubHeading": "जिल्हा सिंधुदूर्ग - कुडाळपासून १४ कि. मी.",
-    "placeRighteous": "श्री वासुदेवानंद सरस्वती स्वामी",
-    "placeMahatmya": "प. पू. टेंबे स्वामींचे जन्मस्थळ, महाराज स्थापित दत्तमूर्ती, टेंबेस्वामींची मूर्ती व पादूका, ध्यान गूहा"
+    "placeSubHeading": "District Sindhudurg - 14 kms from Kudal",
+    "placeRighteous": "Sri Vasudevananda Saraswati Swami",
+    "placeMahatmya": "Srimad Paramahansa Parivrajakacharya Vasudevananda Saraswati (Tembe) Swami Maharaj's Birthplace, Maharaj Sthapana Dattamurti, Tembeswamin's Murti and Paduka, Meditation Cave"
   },
   {
     "templeId": "14",
     "templeName": "Nashik Road Ghaisas Datta Mandir",
-    "placeSpeciality": "Dattamandir",
+    "placeSpeciality": "Speciality: Dattamandir",
     "placeImagePath": "https://raw.githubusercontent.com/onkar2498/JSON/master/images/Nashik/datta.jpg",
     "start_color": "#dce952",
     "end_color": "#376DF6",
-    "placeSubHeading": "स्थान: नाशिक रोड पासून २।। कि. मी., नाशिक (महाराष्ट्र राज्य)",
-    "placeRighteous": "सत्पुरूष: श्री काकासाहेब घैसास .",
-    "placeMahatmya": "विशेष : दत्तमंदिर "
+    "placeSubHeading": "Location: 2. Km from Nashik Road, Nashik (Maharashtra State)",
+    "placeRighteous": "Satpurush: Shri Kakasaheb Ghaisas."
   }
 ]

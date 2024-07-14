@@ -1,10 +1,9 @@
 { 
-    "_id" : ObjectId("5f36360845c4cc165562559c"), 
     "templeId" : "4", 
-    "templeName" : "Shri Kshetra Peethapur", 
-    "placeSubHeading" : "स्थान:  इस्ट गोदावरी जिल्हा, आंध्रप्रदेश ", 
-    "placeRighteous" : "सत्पुरूष: श्रीपाद श्रीवल्लभ स्वामी महाराज   ", 
-    "placeMahatmya" : "विशेष:  श्रीपाद श्रीवल्लभ जन्मस्थान, कुकुटेश्वर मंदिर, अनघा लक्ष्मी  मंदिर, सत्यनारायण मंदिर", 
+    "templeName" : "Shri Kshetra Peethapur",
+    "placeSubHeading" : "Location: East Godavari District, Andhra Pradesh ",
+    "placeRighteous" : "Satpurush: Shripad Shrivallabh Swami Maharaj ",
+    "placeMahatmya" : "Special: Shripad Shrivallabh Janmasthan, Kukuteshwar Temple, Anagha Lakshmi Temple, Satyanarayan Temple",
     "placeSpeciality" : "Birthplace of Shripad", 
     "placeImages" : [
         "https://5.imimg.com/data5/UP/JP/GLADMIN-9483757/rudrabhishekam-pooja-service-500x500.jpg", 
