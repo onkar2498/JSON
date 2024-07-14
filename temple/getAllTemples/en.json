@@ -82,7 +82,7 @@
     "temple name": "Narsobachi Wadi",
     "place attribute": "Sri Narasimhasaraswati was  live here for 12 years",
     "start_color": "#FFA72F",
-    "placeImagePath": "https://www.touristplaceskolhapur.com/wp-content/uploads/2018/09/narsobawadi_mandir.jpg",
+    "placeImagePath": "https://github.com/onkar2498/JSON/blob/master/images/narsobawadi.jpg",
     "end_color": "#FF7765",
     "placeSubHeading": "Place: Tehsil Shirol, Distt. Kolhapur, Near Mirje Se, Krishna - Panchganga Sangam Sthali.",
     "placeRighteous": "Satpurush: Shri Narasimhasaraswati twelve years ago.",
@@ -91,7 +91,7 @@
   {
     "templeId": "11",
     "templeName": "Shri Kshetra Dattabhikshaling Temple",
-    "placeImagePath": "https://prahaarkonkan.com/wp-content/uploads/2020/08/IMG-20200825-WA0024-696x1031.jpg",
+    "placeImagePath": "https://github.com/onkar2498/JSON/blob/master/images/datta-bhikshaling.jpg",
     "placeSubHeading": "Location: Raviwar Peth Kolhapur. ",
     "placeRighteous": "Satpurush: Shri. Dutt Maharaj.",
     "placeMahatmya": "Special: Shri Mahalakshmi daily offering alms to Shri Gurumauli here. Center of Nath Sect.",
@@ -130,7 +130,8 @@
     "templeName" : "Shri Dattapaduka of Shri Kshetra Bachani, Jagrat Sthan",
     "placeSubHeading" : "Location: 23-25 km south of Kolhapur, 23-25 km south of Vispurli, left Hatala, Gaargoti road, 'Kagal' taluk, 'Bachni' village.",
     "placeRighteous" : "Kagal is the village of P.P. Yogiraj Gulvani Maharaj.",
-    "placeMahatmya" : "Special: 'Shri Dattapaduka' at 'Bachani' is as dazzling as Nrusinghwadi and fulfills the wishes of the devotees.",    "placeSpeciality" : "Paduka: Mr. Dutt Paduka.", 
+    "placeMahatmya" : "Special: 'Shri Dattapaduka' at 'Bachani' is as dazzling as Nrusinghwadi and fulfills the wishes of the devotees.",    
+	"placeSpeciality" : "Paduka: Mr. Dutt Paduka.", 
     "placeImagePath" : "https://media-cdn.tripadvisor.com/media/photo-s/0f/89/cd/aa/basavakalyan.jpg", 
     "start_color" : "#4b464d", 
     "end_color" : "#eb837f"
@@ -164,7 +165,7 @@
     "placeRighteous": "Satpurush: Dattamandir.",
     "placeMahatmya": "Special: All-round Sundar 3 feet high, Datta statue with Shiva in the middle.",
     "placeSpeciality": "All beautiful 3. Feet tall, Datta idol in Shiva.",
-    "placeImagePath": "https://prahaarkonkan.com/wp-content/uploads/2020/09/WhatsApp-Image-2020-09-06-at-10.49.11-AM.jpeg",
+    "placeImagePath": "https://github.com/onkar2498/JSON/blob/master/images/ashti.jpg",
     "start_color": "#dce952",
     "end_color": "#376DF6"
   }
