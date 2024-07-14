@@ -4,6 +4,54 @@
       "title": "Krishna Kath Video",
       "subTitle": "Powered By",
       "video": [
+         {
+          "videoId": "15",
+          "videoURL": "O9vTG3gUrLw",
+          "videoDesc": "Complete history about Ganagapura information in Telugu |Jai Guru Datta |Dattatreya Temple GANAGAPUR",
+          "videoThumbnail": "https://i.ytimg.com/vi/O9vTG3gUrLw/maxresdefault.jpg",
+          "videoTitle": "Complete history about Ganagapura information in Telugu |Jai Guru Datta |Dattatreya Temple GANAGAPUR",
+          "videoLongDesc": "Complete history about Ganagapura information in Telugu |Jai Guru Datta |Dattatreya Temple GANAGAPUR"
+        },
+        {
+          "videoId": "14",
+          "videoURL": "iQbkJ9gtXnE",
+          "videoDesc": "श्री क्षेत्र कुमसी श्री नृसिंह सरस्वती स्वामींनी विश्वरुप दर्शन दिलेले पवित्र ठिकाण",
+          "videoThumbnail": "http://sripadavallabha.org/sv/wp-content/uploads/2013/10/Kumasi-3-1024x670.jpg",
+          "videoTitle": "श्री क्षेत्र कुमसी श्री नृसिंह सरस्वती स्वामींनी विश्वरुप दर्शन दिलेले पवित्र ठिकाण",
+          "videoLongDesc": "श्री क्षेत्र कुमसी श्री नृसिंह सरस्वती स्वामींनी विश्वरुप दर्शन दिलेले पवित्र ठिकाण"
+        },
+        {
+          "videoId": "13",
+          "videoURL": "zzzxilRf2NY",
+          "videoDesc": "Shri Kshetra Manthangod | श्री क्षेत्र मंथनगोड - Karantaka",
+          "videoThumbnail": "https://i.ytimg.com/vi/zzzxilRf2NY/maxresdefault.jpg",
+          "videoTitle": "Shri Kshetra Manthangod | श्री क्षेत्र मंथनगोड - Karantaka",
+          "videoLongDesc": "कुरवपूर जवळच मत्कल या नावाचे गाव आहे. तेथून जवळच मंथनगोड हे गांव आहे. तेथे एक मोठा खडक असून त्याला श्रीपाद खडक असे म्हणतात. येथे गुरुचरित्रातील ११ व्या अध्यायातील श्रीपद श्री वल्लभांच्या भक्ताची कथा घडली आहे. "
+        },
+         {
+          "videoId": "12",
+          "videoURL": "KeNu7vKKCRc",
+          "videoDesc": "सुचिन्द्रम श्री थानुमलायन स्वामी मंदिर - Tamil Nadu",
+          "videoThumbnail": "https://i.ytimg.com/vi/KeNu7vKKCRc/maxresdefault.jpg",
+          "videoTitle": "सुचिन्द्रम श्री थानुमलायन स्वामी मंदिर - Tamil Nadu",
+          "videoLongDesc": "सुचिन्द्रम एक प्रसिद्ध तीर्थ स्थान है, जो तमिलनाडु के कन्याकुमारी में स्थित है। इस तीर्थ स्थान की धार्मिक आस्था श्रद्धालुओं को सहज ही अपनी ओर खींच लाती है। इस स्थान पर भव्य 'स्थानुमलयन मंदिर' है। यह मंदिर हिन्दू धर्म में मान्य त्रिदेव- ब्रह्मा, विष्णु एवं महेश को समर्पित है। यह त्रिदेव यहाँ एक लिंग के रूप में विराजमान हैं। मंदिर का निर्माण नौवीं शताब्दी में हुआ माना जाता है। उस काल के कुछ शिलालेख मंदिर में अब भी मौजूद हैं। सत्रहवीं शताब्दी में इस मंदिर को नया रूप दिया गया था। मंदिर में भगवान विष्णु की एक अष्टधातु की प्रतिमा एवं पवनपुत्र हनुमान की 18 फुट ऊँची प्रतिमा विशेष रूप से दर्शनीय है।"
+        },
+        {
+          "videoId": "11",
+          "videoURL": "ooWdaX70oe4",
+          "videoDesc": "Gaangapur Darshan - Karnataka",
+          "videoThumbnail": "https://templeconnect.com/wp-content/uploads/2022/01/70313300_2700648813288318_8300516541426827264_n.jpg",
+          "videoTitle": "Gaangapur Sampurna Darshan - Karnataka",
+          "videoLongDesc": "Gaangapur Sampurna Darshan"
+        },
+        {
+          "videoId": "10",
+          "videoURL": "5NAU_AWqZN0",
+          "videoDesc": "Garudeshwar Darshan ",
+          "videoThumbnail": "https://i.ytimg.com/vi/5NAU_AWqZN0/maxresdefault.jpg",
+          "videoTitle": "Garudeshwar Darshan - Gujarat",
+          "videoLongDesc": "Garudeshwar Darshan"
+        },
         {
           "videoId": "1",
           "videoURL": "hMZ_PDRH3ac",
@@ -80,7 +128,7 @@
           "videoId": "10",
           "videoURL": "_r3uKMWMIPU",
           "videoDesc": "Datta Mandir",
-          "videoThumbnail": "https://i.ytimg.com/vi/_r3uKMWMIPU/maxresdefault.jpg",
+          "videoThumbnail": "https://i.ytimg.com/vi/QMpAY2F6ETk/maxresdefault.jpg",
           "videoTitle": "Shri Kshetra Mangaon | श्री क्षेत्र ... ",
           "videoLongDesc": "Shri Kshetra Mangaon | श्री क्षेत्र ... "
         }
